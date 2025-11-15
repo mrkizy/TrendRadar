@@ -18,11 +18,22 @@ gemini
 deepmind
 
 独立开发者
+个人开发者
 AI产品
+
+comfyui
+n8n
+dify
+工作流
 
 chatgpt
 openai
 sora
+
+seo
+geo
+搜索引擎优化
+独立站
 
 cursor
 Anthropic
@@ -44,7 +55,6 @@ Copilot Coding
 Code Interpreter
 AutoDev
 代码代理
-Coding Agent
 多代理协作开发
 自主调试
 AI驱动测试
@@ -59,6 +69,11 @@ Codebase Knowledge Graph
 NL2Code
 Code2NL
 
+agent
+agentic
+Agentic AI
+Multi-Agent Systems
+
 iphone
 ipad
 mac
@@ -66,8 +81,9 @@ ios
 
 人工智能
 ai
-!gai
 AI
+!gai
+
 Artificial Intelligence
 机器学习
 Machine Learning
@@ -90,22 +106,12 @@ GAN
 RAG
 Retrieval-Augmented Generation
 AutoGPT
-Agentic AI
-Multi-Agent Systems
 
 AIGC
+aigc
 AI创作
-AI Content Creation
-AI驱动客服
-AI Customer Service
-AI医疗
-AI Healthcare
-AI金融风控
-AI教育
-AI 营销
 
-AI芯片
-AI Chip
+芯片
 GPU
 NPU
 AI云服务
@@ -118,6 +124,12 @@ Synthetic Data
 短视频生成器
 虚拟主播
 电子病历分析器
-AI创业生态
-AI产品矩阵
-AI商业模型
+
+ai
++创业生态
+
+ai
++产品矩阵
+
+ai
++商业模型
