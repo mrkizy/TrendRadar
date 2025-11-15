@@ -1,19 +1,5 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
 
 宇树
 王兴兴
@@ -22,28 +8,6 @@ DJI
 灵犀
 稚晖君
 彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
@@ -66,48 +30,123 @@ google
 gemini
 deepmind
 
+独立开发者
+AI产品
+
 chatgpt
 openai
 sora
 
 claude
 Anthropic
+ChatGPT
+GPT-4
+GPT-5
+Claude
+Gemini
+Copilot
+Midjourney
+Stable Diffusion
+DALL·E
+Llama
+Mistral
+文心一言
+通义千问
+
+AI Coding
+AI Code Generation
+Copilot Coding
+Code Interpreter
+AutoDev
+代码代理
+Coding Agent
+多代理协作开发
+自主调试
+AI 驱动测试
+AI 代码审查
+Prompt Engineering for Coding
+代码检索增强生成
+RAG
+代码语义搜索
+Code Embedding Search
+代码知识库
+Codebase Knowledge Graph
+NL2Code
+Code2NL
 
 iphone
 ipad
 mac
 ios
 
-ai
-!gai
-人工智能
-
 自动驾驶
 
 机器人
 
-国产
-中国
-
-美国
-日本
-韩国
-
 芯片
 光刻机
 
-科技
+人工智能
+ai
+!gai
+AI
+Artificial Intelligence
+机器学习
+Machine Learning
+深度学习
+Deep Learning
+生成式 AI
+Generative AI
+对比学习
+Contrastive Learning
+强化学习
+Reinforcement Learning
+联邦学习
+Federated Learning
 
-核能
+大语言模型
+LLM
+Transformers
+Diffusion Model
+GAN
+RAG
+Retrieval-Augmented Generation
+AutoGPT
+Agentic AI
+Multi-Agent Systems
 
-水电站
-雅鲁藏布江
+AIGC
+AI 创作
+AI Content Creation
+AI 驱动客服
+AI Customer Service
+AI 医疗
+AI Healthcare
+AI 金融风控
+AI 教育
+AI 制造
+AI 营销
+智能驾驶
+Autonomous Driving
 
-新质生产力
+AI 芯片
+AI Chip
+GPU 加速
+NPU
+AI 云服务
+AI 推理
+Inference
+Prompt Engineering
+Synthetic Data
+AI 版权
+AI Copyright
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+知识库搜索引擎
+短视频生成器
+虚拟主播
+电子病历分析器
+AI创业生态
+AI产品矩阵
+AI商业模型
+
+
