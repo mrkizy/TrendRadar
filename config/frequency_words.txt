@@ -1,20 +1,9 @@
 DeepSeek
 梁文锋
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
 字节
 bytedance
 张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
@@ -22,8 +11,6 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -37,7 +24,7 @@ chatgpt
 openai
 sora
 
-claude
+cursor
 Anthropic
 ChatGPT
 GPT-4
@@ -50,8 +37,6 @@ Stable Diffusion
 DALL·E
 Llama
 Mistral
-文心一言
-通义千问
 
 AI Coding
 AI Code Generation
@@ -62,8 +47,8 @@ AutoDev
 Coding Agent
 多代理协作开发
 自主调试
-AI 驱动测试
-AI 代码审查
+AI驱动测试
+AI代码审查
 Prompt Engineering for Coding
 代码检索增强生成
 RAG
@@ -78,13 +63,6 @@ iphone
 ipad
 mac
 ios
-
-自动驾驶
-
-机器人
-
-芯片
-光刻机
 
 人工智能
 ai
