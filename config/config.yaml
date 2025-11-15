@@ -136,8 +136,6 @@ platforms:
     name: "IT之家"
   - id: "juejin"
     name: "掘金"
-  - id: "github"
-    name: "GitHub"
   - id: "hackernews"
     name: "Hacker News"
   - id: "solidot"
