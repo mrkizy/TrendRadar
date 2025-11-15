@@ -51,6 +51,7 @@ Copilot
 DALL·E
 Llama
 Mistral
+codex
 
 AI Coding
 AI Code Generation
