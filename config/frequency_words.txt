@@ -94,30 +94,25 @@ Agentic AI
 Multi-Agent Systems
 
 AIGC
-AI 创作
+AI创作
 AI Content Creation
-AI 驱动客服
+AI驱动客服
 AI Customer Service
-AI 医疗
+AI医疗
 AI Healthcare
-AI 金融风控
-AI 教育
-AI 制造
+AI金融风控
+AI教育
 AI 营销
-智能驾驶
-Autonomous Driving
 
-AI 芯片
+AI芯片
 AI Chip
-GPU 加速
+GPU
 NPU
-AI 云服务
-AI 推理
+AI云服务
+AI推理
 Inference
 Prompt Engineering
 Synthetic Data
-AI 版权
-AI Copyright
 
 知识库搜索引擎
 短视频生成器
@@ -126,5 +121,3 @@ AI Copyright
 AI创业生态
 AI产品矩阵
 AI商业模型
-
-
