@@ -101,6 +101,8 @@ swift
 ai
 AI
 !gai
+!paiN
+!pain
 
 Artificial Intelligence
 机器学习
