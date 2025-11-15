@@ -15,6 +15,11 @@ NVIDIA
 谷歌
 google
 
+苹果
+apple
+!水果
+!fruit
+
 独立开发者
 个人开发者
 AI产品
@@ -38,7 +43,6 @@ GPT-4
 GPT-5
 
 seo
-geo
 搜索引擎优化
 独立站
 
