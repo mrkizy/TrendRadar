@@ -53,6 +53,14 @@ Llama
 Mistral
 codex
 
+mcp
+context
+上下文工程
+提示工程
+prompt
+vibe coding
+氛围编程
+
 AI Coding
 AI Code Generation
 Copilot Coding
