@@ -14,12 +14,16 @@ NVIDIA
 
 谷歌
 google
-gemini
-deepmind
 
 独立开发者
 个人开发者
 AI产品
+
+AIGC
+aigc
+AI创作
+Midjourney
+Stable Diffusion
 
 comfyui
 n8n
@@ -27,8 +31,11 @@ dify
 工作流
 
 chatgpt
+ChatGPT
 openai
 sora
+GPT-4
+GPT-5
 
 seo
 geo
@@ -37,14 +44,10 @@ geo
 
 cursor
 Anthropic
-ChatGPT
-GPT-4
-GPT-5
 Claude
 Gemini
+deepmind
 Copilot
-Midjourney
-Stable Diffusion
 DALL·E
 Llama
 Mistral
@@ -71,13 +74,15 @@ Code2NL
 
 agent
 agentic
-Agentic AI
-Multi-Agent Systems
+Multi-Agent
+智能体
 
 iphone
 ipad
 mac
 ios
+swift
+!taylor
 
 人工智能
 ai
@@ -104,12 +109,7 @@ Transformers
 Diffusion Model
 GAN
 RAG
-Retrieval-Augmented Generation
 AutoGPT
-
-AIGC
-aigc
-AI创作
 
 芯片
 GPU
