@@ -103,6 +103,7 @@ AI
 !gai
 !paiN
 !pain
+!nard
 
 Artificial Intelligence
 机器学习
