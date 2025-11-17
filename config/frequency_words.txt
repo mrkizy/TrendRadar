@@ -49,7 +49,9 @@ seo
 cursor
 Anthropic
 Claude
+claude
 Gemini
+gemini
 deepmind
 Copilot
 DALL·E
@@ -89,6 +91,8 @@ agent
 agentic
 Multi-Agent
 智能体
+ollama
+langgraph
 
 iphone
 ipad
