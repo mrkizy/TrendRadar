@@ -19,6 +19,7 @@ google
 apple
 !水果
 !fruit
+!苹果哥
 
 独立开发者
 个人开发者
