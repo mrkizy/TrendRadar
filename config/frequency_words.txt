@@ -132,14 +132,9 @@ GAN
 RAG
 AutoGPT
 
-芯片
-GPU
-NPU
-AI云服务
-AI推理
-Inference
-Prompt Engineering
-Synthetic Data
+ai
+AI
++推理
 
 知识库搜索引擎
 短视频生成器
