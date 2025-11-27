@@ -51,8 +51,6 @@ cursor
 Anthropic
 Claude
 claude
-Gemini
-gemini
 deepmind
 Copilot
 DALL·E
@@ -109,6 +107,13 @@ AI
 !paiN
 !pain
 !nard
+
+antigravity
+Gemini
+gemini
+nano banana
+Nano Banana
+
 
 Artificial Intelligence
 机器学习
