@@ -108,6 +108,8 @@ AI
 !paiN
 !pain
 !nard
+!股票
+!标普
 
 antigravity
 Gemini
